@@ -1,0 +1,49 @@
+=== Mentor meeting 1 ===
+
+- Date: 18/10/2022
+- Attendees: Barbara & Sam
+
+== Agenda == 
+
+1. Recap from previous meeting (or expectations & goals if this is your 1st meeting)
+
+	First meeting
+	Talked through history and vision of the project
+	Discussed some tangible outputs for the OHM course:
+		Website/landing page: The project needs a proper home; a place where people can be directed to.
+		This c
+
+2. This week’s reading and assignment: questions, doubts, challenges?
+
+	Canvas complete. Looks OK, will need tweaking as the project progresses.
+	Still unsure about the licensing for this project. More reading required.
+
+3. Timeline: how are we doing?
+
+	On track. The canvas has been completed and Barbara made a good point about keeping the two threads of this project separate.
+   	Thread 1: Open-source design - community of users and coontributors
+	Thread 2: Tunnels are built at the University of Bath and given to schools, with educational material for free (funded by the Department of Mechanical Engineering)
+
+	Thread 1 is where I will be focussing my efforts on this OHM course.
+	
+
+4. Contacting experts: do we need specific help from someone?
+	
+	Not currently needed
+
+5.  Any other questions or comments
+
+	Ultimately this project will need educational material to go with the experimetns. This will be in the form of documents/videos, which is a large undertaking
+	Barbara suggested, for now, I could include a "what's next?" page on my website to outline my goals here.
+	I can then have a contact box for contributors who want to get involved in designing the educational material
+
+== Actions for next meeting == 
+- Ask cohort/organisers about most appropriate platform to host design/assembly plans. e.g. Do these come with in-built forums?
+- Define a realistic timeline, in two-week chunks, that will allow me to acheive my goals
+- Define a mission statement for the website
+- Keep doing the homework!
+
+
+
+
+
