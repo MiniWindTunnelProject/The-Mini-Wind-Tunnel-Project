@@ -6,15 +6,17 @@
 == Agenda == 
 
 1. Recap from previous meeting (or expectations & goals if this is your 1st meeting)
-
-
+	Homeowrk as goals is fine
+	Wrong link for version control (webpage by accident)
 
 2. This week’s reading and assignment: questions, doubts, challenges?
-
-
+	schackb - https://forum.openhardware.science/c/projects/gitbuilding/55
+	Ask about gitbuilding on github
+	
 
 3. Timeline: how are we doing?
-
+	OK, all caught up now
+	Next weeks are roadmap
 
 
 4. Contacting experts: do we need specific help from someone?
@@ -22,6 +24,7 @@
 
 
 5.  Any other questions or comments
+	Add some more stuff in the website - contact, vision, where next, how do people get involved?
 
 
 == Actions for next meeting == 
