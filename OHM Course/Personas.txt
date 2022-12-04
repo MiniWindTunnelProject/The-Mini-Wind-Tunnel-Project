@@ -1,0 +1,10 @@
+Persona 1:
+	Educator
+	Interested and exctied by physics, keen to share that with students
+	Doesn't have the time/money to research/design/build a wind tunnel demonstrator
+	Keen to create educational material and insight, with a bit of physics guidance
+
+Persona 2:
+	University researcher/educator
+	Doesn't have the time/money to design/build a wind tunnel demonstrator
+	Keen to create additional experiments and improvements to the product based on institutions expertise 

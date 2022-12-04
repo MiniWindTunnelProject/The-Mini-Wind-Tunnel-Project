@@ -1,34 +1,32 @@
-=== Mentor meeting 1 ===
+=== Mentor meeting 2 ===
 
-- Date: 02/11/2022
+- Date: 23/11/2022
 - Attendees: Barbara & Sam
 
 == Agenda == 
 
 1. Recap from previous meeting (or expectations & goals if this is your 1st meeting)
-	Homeowrk as goals is fine
-	Wrong link for version control (webpage by accident)
+
+	Caught up on progress with other aspect of project, which involves gifting a tunnel to deserving schools
+	Our first school is in Bristol, and will act as a trial for the product and teaching material
 
 2. This week’s reading and assignment: questions, doubts, challenges?
-	schackb - https://forum.openhardware.science/c/projects/gitbuilding/55
-	Ask about gitbuilding on github
-	
+	Had little/no time recently due to teaching duties in my job. Getting back on track now
+		
 
 3. Timeline: how are we doing?
-	OK, all caught up now
-	Next weeks are roadmap
-
+	Not well, a lot to catch up on which I will endevour to do.
+	Nicolas Mendez was super helpful in giving advice on GitBuilding, I am extremely grateful for his time on this
 
 4. Contacting experts: do we need specific help from someone?
-	
-
+	I may need more help from the cohort on GitBuilding
 
 5.  Any other questions or comments
 	Add some more stuff in the website - contact, vision, where next, how do people get involved?
 
 
 == Actions for next meeting == 
-- catch up wth homework
+- catch up wth homework!!!!!!!!!!
 
 
 

@@ -1,0 +1,44 @@
+Documentation plan:
+
+This will be written in GitBuilding.
+Although this presents a higher barrier to entry than word or notepad, it will pay dividends in the future when the documentation becomes large and edits need to be made
+In addition, it is more inkeeping with the principles of open-hardware
+
+It will be highly likely that I will not complete all of this by the end of the course, however
+by starting with a good framework and strucutre, it will get me over the initial hurdle and set 
+the project going.
+
+Split the documentation into:
+
+	Overall bill of materials - needs logical naming structure
+	Manufacture:
+		Laser cutting
+		3D printing
+		Off-the-shelf components (need alternative products)
+		(Bill of materials in each sub-section for clarity)
+	Assembly:
+		Wind tunnel
+			Motor box - already completed the assembly drawings
+			Diffuser 
+			Test section
+			Contraction
+		Experiments
+			Inclined manometer
+			Wing force measurement
+			Cylinder
+			Smoke flow visualisation
+	Operation:
+		Safety!!
+		Wind tunnel
+		Inclined manometer
+		Wing force measurement
+		Cylinder
+		Smoke flow visualisation
+
+	Teaching material: - this will be developed with teachers from the Bristol school
+		Preliminary material for teachers
+		Lesson plans and handouts for each experiment
+
+I expect the documentation to have both instructional videos and written documents
+The videos can be hosted on youtube and linked in GitBuilding.
+The university has good facilities for making such videos that I can use.

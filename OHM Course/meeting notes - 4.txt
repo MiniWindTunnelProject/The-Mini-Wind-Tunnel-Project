@@ -1,0 +1,26 @@
+Talked about making the contributors document
+Lat on the website
+2 levels of contribution
+How can you contribute
+
+2 columns - for the 2 streams
+Contents:
+Steam 1: Contributing to the actual design - how can they contribute
+	 Email me, look at documentation
+	 Suggestions for modifications
+	 Enthusaiastic about bulding a community
+	 Source build @ link
+	 Second paragraph
+	 "It may be worth starting a conversation with the developers before getting stuck into big code changes. You can either do this through an issue on the repository, or on our community forum"
+	 Forum would great - how to do that? Maybe in the future - create an email.
+	 Thread on GOSHH
+
+	 Would you like to use this in your classroom, do you have any ideas for lessons?
+		Contributions very soon.
+		Video aside
+		Right now step (to create a lesson plan, write it up and send it to the email, or do merge request
+	 What I'm writing is a showcase/view into the kind of contributions I'm looking for, and how I've partnered with them
+	 	Most of the contributors to the lessons plans are partners - give explanation of what we're looking for
+	 Open flexure - 4 sections with maximum of 5 lines of text each.	
+
+Barbara could have contact in the future
