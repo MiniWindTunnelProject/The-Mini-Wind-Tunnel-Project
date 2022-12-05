@@ -1,4 +1,4 @@
 # The-Mini-Wind-Tunnel-Project
-Files and documentation to build a mini wind tunnel
+Files to build a mini wind tunnel
 
-Files will be uploaded soon
+Files will be uploaded soon!
