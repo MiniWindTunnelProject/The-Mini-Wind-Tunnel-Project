@@ -1,0 +1,31 @@
+title: Mini Wind Tunnel
+description: >
+  The Mini Wind Tunnel Project is bringing exciting, university-level
+  aerodynamics experiments to the school classroom.
+
+  Its open, modular design provides a low-cost platform for educational institutes, and has potential as a legitimate research tool
+intended-use: Education and research
+project-link: https://miniwindtunnelproject.github.io/The-Mini-Wind-Tunnel-Project/
+made: true
+made-independently: true
+license:
+  hardware: CERN-OHL-P-2.0
+  documentation: CC-BY-4.0
+okh-manifest-version: 1.0.0
+date-updated: 2022-12-06
+manifest-author:
+  name: Sam Bull
+  affiliation: The University of Bath
+  email: miniwindtunnelproject@gmail
+manifest-language: en-GB
+contact:
+  name: Sam Bull
+  affiliation: The University of Bath
+  email: miniwindtunnelproject@gmail.com
+design-files:
+  - path: https://github.com/MiniWindTunnelProject/The-Mini-Wind-Tunnel-Project
+    title: Mini Wind Tunnel files
+documentation-language: en-GB
+making-instructions:
+  - path: https://miniwindtunnelproject.github.io/MiniWindTunnelDocs/
+    title: Documentation and instructions
